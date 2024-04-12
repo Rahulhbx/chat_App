@@ -43,4 +43,4 @@ Note: Make sure you can use latest android version 3.6
 
 ## Contact
 For any query or suggestions you can contact me :<br>
-Email: sachinsaroj066@gmail.com
+Email: shinchanhbx@gmail.com
