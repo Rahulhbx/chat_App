@@ -42,5 +42,5 @@ Note: Make sure you can use latest android version 3.6
 6) You can see a login page as above.
 
 ## Contact
-For any query or suggestions you can contact me :<br>
+For any query or suggestions you can contact me :
 Email: shinchanhbx@gmail.com
